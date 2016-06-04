@@ -249,8 +249,8 @@
         retrieveFromStorage: retrieveFromStorage,
         settings: {
             botName: "-MusicBot-",
-            language: "czech",
-            chatLink: "https://rawgit.com/Richard01CZ/plugBot/master/lang/cs.json",
+            language: "english",
+            chatLink: "https://rawgit.com/Richard01CZ/plugBot/master/lang/en.json",
             scriptLink: "https://rawgit.com/Richard01CZ/plugBot/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
