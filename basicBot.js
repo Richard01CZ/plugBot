@@ -299,7 +299,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: "bit.ly/1TLonuq",
+            rulesLink: null,
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
