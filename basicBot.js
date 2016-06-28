@@ -280,7 +280,7 @@
             usercommandsEnabled: true,
             thorCommand: false,
             thorCooldown: 10,
-            skipPosition: 3,
+            skipPosition: 5,
             skipReasons: [
                 ["theme", "This song does not fit the room theme. "],
                 ["op", "This song is on the OP list. "],
@@ -294,7 +294,7 @@
             afkRankCheck: "ambassador",
             motdEnabled: false,
             motdInterval: 5,
-            motd: "Temporary Message of the Day",
+            motd: "Have a Nice Listening :)",
             filterChat: true,
             etaRestriction: false,
             welcome: true,
@@ -305,7 +305,7 @@
             youtubeLink: null,
             website: null,
             intervalMessages: [],
-            messageInterval: 5,
+            messageInterval: 3,
             songstats: true,
             commandLiteral: "!",
             blacklists: {
