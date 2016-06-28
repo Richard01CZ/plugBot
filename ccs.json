@@ -41,7 +41,7 @@
     },
     "autocomplete": [],
     "emotes": {
-        "CT": "http://i.imgur.com/pEy4mvE.png",
-        "T": "http://i.imgur.com/E45TEEq.png"
+        "ct-coin": "http://i.imgur.com/pEy4mvE.png",
+        "t-coin": "http://i.imgur.com/E45TEEq.png"
     }
 }
