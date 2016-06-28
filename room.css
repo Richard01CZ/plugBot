@@ -10,7 +10,7 @@
     background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
 }
 #playlist-button {
-    background: #00DC00;
+    background: #FF0000;
 }
 #app-header {
     background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
