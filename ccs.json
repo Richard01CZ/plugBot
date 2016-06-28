@@ -1,12 +1,12 @@
 {
-    "room":                     "Radiant Music",
-    "author":                   "Origin",
+    "room":                     "-MusicHouse-",
+    "author":                   "Richard01_CZ",
     "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
-        "allowAutojoin":        false,
+        "allowAutojoin":        true,
         "allowAutograb":        true,
         "allowSmartVote":       true,
         "allowEmotes":          true,
@@ -27,8 +27,8 @@
         "user":                 "#47577F"
     },
     "images": {
-        "background":           null,
-        "playback":             null,
+        "background":           "http://orig09.deviantart.net/73be/f/2012/149/4/9/plug_dj_skin_2_by_liamgoodyear-d51j3xs.jpg",
+        "playback":             "http://i.imgur.com/vvZOJjX.png",
         "admin":                "http://i.imgur.com/lnv9UAj.png",
         "ambassador":           "http://i.imgur.com/SELhJ9W.png",
         "host":                 "http://i.imgur.com/6ZFLq3u.png",
@@ -41,7 +41,7 @@
     },
     "autocomplete": [],
     "emotes": {
-        "CSGO_CT" : "http://i.imgur.com/pEy4mvE.png"
-        "CSGO_T" : "http://i.imgur.com/E45TEEq.png"
+        "CSGO_CT" :"http://i.imgur.com/pEy4mvE.png"
+        "CSGO_T" :"http://i.imgur.com/E45TEEq.png"
     }
 }
