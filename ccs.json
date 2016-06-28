@@ -39,9 +39,6 @@
         "subscriber":           "http://i.imgur.com/OpJSMk8.png",
         "silversubscriber":     "http://i.imgur.com/HYmd9D7.png"
     },
-    "autocomplete": [],
-    "emotes": {
-        "CSGO_CT" :"http://i.imgur.com/pEy4mvE.png"
-        "CSGO_T" :"http://i.imgur.com/E45TEEq.png"
+    
     }
 }
