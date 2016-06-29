@@ -3,8 +3,8 @@
     width: 500% !important;
     height: 500% !important;
 }*/
-#user-lists .list.staff .group {
-    background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
+.icon{ 
+    background-image: url('http://i.imgur.com/sad5q0G.png'); 
 }
 #footer {
     background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
