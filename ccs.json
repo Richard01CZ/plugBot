@@ -41,7 +41,8 @@
     },
     "autocomplete": [],
     "emotes": {
-        "COUNTERTERORRIST_COIN": "http://i.imgur.com/pEy4mvE.png",
-        "TERRORIST_COIN": "http://i.imgur.com/E45TEEq.png"
+        "antiterrorcoin": "http://i.imgur.com/lG3mhOZ.png",
+        "terrorcoin": "http://i.imgur.com/Oz1PHDW.png",
+        "csgowild": "http://i.imgur.com/euilRFE.png"
     }
 }
