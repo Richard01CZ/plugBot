@@ -271,9 +271,9 @@
             autodisable: true,
             commandCooldown: 30,
             usercommandsEnabled: true,
-            thorCommand: false,
+            thorCommand: true,
             thorCooldown: 10,
-            skipPosition: 5,
+            skipPosition: 3,
             skipReasons: [
                 ["theme", "This song does not fit the room theme. "],
                 ["op", "This song is on the OP list. "],
@@ -334,7 +334,7 @@
             cycleTimer: setTimeout(function () {
             }, 1),
             roomstats: {
-                accountName: null,
+                accountName: "Community_Bot",
                 totalWoots: 0,
                 totalCurates: 0,
                 totalMehs: 0,
