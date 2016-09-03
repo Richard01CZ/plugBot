@@ -6,7 +6,7 @@
 .icon{ 
     background-image: url('http://i.imgur.com/JnlgYx4.png'); 
 }
-#chat-input {
+.chat-input {
     border-radius: 30px;
 }
 
