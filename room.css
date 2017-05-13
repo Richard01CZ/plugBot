@@ -93,7 +93,7 @@
     background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
 }
 #playlist-button {
-    background: #555555;
+    background: #00FF00;
 }
 .social-menu .icon-twitter,.social-menu .icon-facebook {
     opacity: 1;
