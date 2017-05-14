@@ -40,9 +40,9 @@
         "silversubscriber":     "http://i.imgur.com/HYmd9D7.png"
     },
     "autocomplete": [],
-    /*"emotes": {
-        "antiterrorcoin": "http://i.imgur.com/lG3mhOZ.png",
-        "terrorcoin": "http://i.imgur.com/Oz1PHDW.png",
-        "csgowild": "http://i.imgur.com/euilRFE.png"
-    }*/
+    //"emotes": {
+        //"emoji1": "ImageUrl",
+        //"emoji2": "ImageUrl",
+        //"emoji3": "ImageUrl"
+    }
 }
