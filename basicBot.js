@@ -240,9 +240,9 @@
         status: false,
         name: "-MusicBot-",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/Richard01CZ/plugBot/master/basicBot.js",
+        scriptLink: "http://rawgit.com/Richard01CZ/plugBot/master/basicBot.js",
         cmdLink: "http://bit.ly/2qftpuN",
-        chatLink: "https://rawgit.com/Richard01CZ/plugBot/master/lang/cs.json",
+        chatLink: "http://rawgit.com/Richard01CZ/plugBot/master/lang/cs.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -250,8 +250,8 @@
         settings: {
             botName: "basicBot",
             language: "czech",
-            chatLink: "https://rawgit.com/Richard01CZ/plugBot/master/lang/cs.json",
-            scriptLink: "https://rawgit.com/Richard01CZ/plugBot/master/basicBot.js",
+            chatLink: "http://rawgit.com/Richard01CZ/plugBot/master/lang/cs.json",
+            scriptLink: "http://rawgit.com/Richard01CZ/plugBot/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
