@@ -238,7 +238,7 @@
     var basicBot = {
         version: "2.9.1",
         status: false,
-        name: "basicBot1",
+        name: "-MusicBot-",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Richard01CZ/plugBot/master/basicBot.js",
         cmdLink: "https://bit.ly/2qftpuN",
@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot1",
+            botName: "-MusicBot-",
             language: "czech",
             chatLink: "https://rawgit.com/Richard01CZ/plugBot/master/lang/cs.json",
             scriptLink: "https://rawgit.com/Richard01CZ/plugBot/master/basicBot.js",
