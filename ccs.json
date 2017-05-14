@@ -40,9 +40,9 @@
         "silversubscriber":     "http://i.imgur.com/HYmd9D7.png"
     },
     "autocomplete": [],
-    //"emotes": {
-        //"emoji1": "ImageUrl",
-        //"emoji2": "ImageUrl",
-        //"emoji3": "ImageUrl"
+    "emotes": {
+        "emoji1": "ImageUrl",
+        "emoji2": "ImageUrl",
+        "emoji3": "ImageUrl"
     }
 }
