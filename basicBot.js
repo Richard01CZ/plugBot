@@ -236,9 +236,9 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot = {
-        version: "testing",
+        version: "2.9.1",
         status: false,
-        name: "basicBot",
+        name: "basicBot1",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Richard01CZ/plugBot/master/basicBot.js",
         cmdLink: "https://bit.ly/2qftpuN",
@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "basicBot1",
             language: "czech",
             chatLink: "https://rawgit.com/Richard01CZ/plugBot/master/lang/cs.json",
             scriptLink: "https://rawgit.com/Richard01CZ/plugBot/master/basicBot.js",
