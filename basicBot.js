@@ -238,10 +238,10 @@
     var basicBot = {
         version: "2.9.1",
         status: false,
-        name: "basicBot",
+        name: "-MusicBot-",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Richard01CZ/plugBot/master/basicBot.js",
-        cmdLink: "http://git.io/245Ppg",
+        cmdLink: "http://bit.ly/2qftpuN",
         chatLink: "https://rawgit.com/Richard01CZ/plugBot/master/lang/cs.json",
         chat: null,
         loadChat: loadChat,
