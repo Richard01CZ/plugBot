@@ -1,7 +1,7 @@
 {
     "room":                     "-MusicHouse-",
     "author":                   "Richard01_CZ",
-    "icon":                     "http://i.imgur.com/M0VMEGZ.png",
+    "icon":                     "http://i.imgur.com/AgDHhwK.png",
     "css":                      "https://rawgit.com/Richard01CZ/plugBot/master/room.css",
     "rules": {
         "allowAutorespond":     true,
